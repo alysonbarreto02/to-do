@@ -33,7 +33,8 @@ export default function AddTask() {
                     </form>
                 </div>
 
-                <CreatedTasks />
+                <CreatedTasks 
+                tasks={moreTask}/>
 
                 {moreTask.map((moreTask, index) => {
                     return (
