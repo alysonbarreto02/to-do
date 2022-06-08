@@ -8,12 +8,12 @@ TailWind CSS
 Instale as dependências com:
 
 npm install
-*ou*
+--ou--
 yarn 
 
 ## SUBA UM SERVIDOR
 npm run dev
-*ou*
+--ou--
 yarn dev
 Abra http://localhost:3000 em seu browser para ver o resultado.
 
